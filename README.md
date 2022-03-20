@@ -1,2 +1,2 @@
 # appSecurity
-Example app Securiry Sprint Boot
+Example app Securiry Sprint Boot and jwt
